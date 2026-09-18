@@ -1,4 +1,4 @@
 def laporan():
-    print("Laporan hasil panen")
+    print("Laporan penjualan hasil panen")
 
 laporan()
